@@ -22,12 +22,12 @@ This extension allows you to review and manage GitHub pull requests and issues i
 It's easy to get started with GitHub Pull Requests for Visual Studio Code. Simply follow these steps to get started.
 
 1. Make sure you have VSCode version 1.27.0 or higher.
-1. Download the extension from [the marketplace](https://aka.ms/vscodepr-download).
+1. Download the extension from 👉[the marketplace](https://aka.ms/vscodepr-download).
 1. Reload VS Code after the installation (click the reload button next to the extension).
 1. Open your desired GitHub repository.
 1. If you're using version 0.5.0 of the extension or higher, a new viewlet should be added to the bottom of the activity bar. For older versions, the `GitHub Pull Requests` treeview will appear in the SCM Viewlet.
 1. You may need to configure the `githubPullRequests.remotes` setting, by default the extension will look for PRs for `origin` and `upstream`. If you have different remotes, add them to the remotes list.
-1. A notification should appear asking you to sign in to GitHub; follow the directions to authenticate.
+1. A notification will appear asking you to sign in to GitHub; follow the directions to authenticate.
 1. You should be good to go!
 
 # Configuring the extension
